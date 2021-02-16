@@ -1,5 +1,5 @@
 const ROUTES = {
-  hello: '/hello',
+  hello: 'hello',
 };
 
 export default ROUTES;
